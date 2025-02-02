@@ -1,4 +1,13 @@
 # Lion Hub
+
+
+## How to use:
+### Clone this respository with the link [Lion HUB](https://github.com/joaoraphael-leao/lion-hub),
+### Download Python in your machine [Python](https://www.python.org/)
+### Run main.py and follow the menu instructions.
+
+## Have Fun!
+
 • User Account Management: Users can create, edit, and deactivate their accounts;
 -  Post Creation and Management: Users can create, edit, and delete posts, including text, images, and videos;
 ainda nao tem imagens e videos
