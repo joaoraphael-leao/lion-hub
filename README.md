@@ -2,7 +2,7 @@
 
 
 ## How to use:
-### Clone this respository with the url: https://github.com/joaoraphael-leao/lion-hub),
+### Clone this respository with the url: https://github.com/joaoraphael-leao/lion-hub,
 ### Download Python in your machine [Python](https://www.python.org/)
 ### Run main.py and follow the menu instructions.
 
