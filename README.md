@@ -1,16 +1,16 @@
 # Lion Hub
 • User Account Management: Users can create, edit, and deactivate their accounts;
-- [x] Post Creation and Management: Users can create, edit, and delete posts, including text, images, and videos;
+-  Post Creation and Management: Users can create, edit, and delete posts, including text, images, and videos;
 ainda nao tem imagens e videos
-- [x] Friend and Follower System: Managing friend requests and follower connections;
-- [ ] Private Messaging: Enabling users to send private messages to one another
-- [ ] Group Creation and Management: Users can create and manage groups for shared interests;
-- [ ] Event Planning and Invitations: Organizing events and sending out invitations to contacts;
-- [ ] Content Filtering and Moderation: Implementing content filtering and moderation tools to maintain community standards;
-- [x] Notification System: Sending notifications about activities like comments, likes, and friend requests;
+-  Friend and Follower System: Managing friend requests and follower connections;
+-  Private Messaging: Enabling users to send private messages to one another
+-  Group Creation and Management: Users can create and manage groups for shared interests;
+-  Event Planning and Invitations: Organizing events and sending out invitations to contacts;
+-  Content Filtering and Moderation: Implementing content filtering and moderation tools to maintain community standards;
+-  Notification System: Sending notifications about activities like comments, likes, and friend requests;
  nots, ainda nao tem nots de likes
-- [ ] Privacy Settings: Allowing users to control the privacy of their profiles and posts;
-- [ ] User Analytics and Insights: Providing users with insights on their posts' reach and engagement.
+-  Privacy Settings: Allowing users to control the privacy of their profiles and posts;
+-  User Analytics and Insights: Providing users with insights on their posts' reach and engagement.
 
 
 ### Funcionality 1 
@@ -37,15 +37,14 @@ ainda nao tem imagens e videos
 - add members ✅
 - remove members ✅
 ### Funcionality 5 
-- Create events 
-- Invite people
-- Ver eventos
+- Create events  ✅
+- Invite people ✅
+- See events ✅
 ### Funcionality 6 
 - Search for posts with filter ✅
 ### Funcionality 7 
 - See all notifications ✅
 - Send Notification for follow request ✅
-- Send Notification for message  
 - Send Notification for likes ✅
 - Send Notification for comments ✅
 - See like notifications ✅(filter function)
